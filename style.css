@@ -1,0 +1,26 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: #F9F2FF;
+}
+
+h1 {
+  font-style: italic;
+  color: #AB4AFF;
+}
+
+h2 {
+  margin-top: 2em;
+  color: #C786FF; 
+}
+
+.question {
+  display: flex;
+  margin-top: 2em;
+}
+  
+.answer-choice img {
+  height: 10em;
+}
